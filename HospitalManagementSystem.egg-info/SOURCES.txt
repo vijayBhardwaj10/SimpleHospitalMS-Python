@@ -1,0 +1,11 @@
+setup.py
+HospitalManagementSystem.egg-info/PKG-INFO
+HospitalManagementSystem.egg-info/SOURCES.txt
+HospitalManagementSystem.egg-info/dependency_links.txt
+HospitalManagementSystem.egg-info/top_level.txt
+package/__init__.py
+package/appointment.py
+package/common.py
+package/doctor.py
+package/model.py
+package/patient.py
