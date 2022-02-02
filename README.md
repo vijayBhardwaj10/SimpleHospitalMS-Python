@@ -1,0 +1,3 @@
+# SimpleHospitalMS-Python
+flask
+sqlite
